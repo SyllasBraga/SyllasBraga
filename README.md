@@ -16,8 +16,8 @@
     <img align="center" height="30" width="40" alt="spring-icon" src="/images/spring.png">
     <img align="center" height="30" width="40" alt="mysql-icon" src="/images/mysql.png">
     <img align="center" height="30" width="40" alt="git-icon" src="/images/git.png">
+  </div>
     <h1 align="center">Redes Sociais</h1>
-
     <a href="mailto: syllasbraga2@gmail.com">
       <img width="30" src="/images/gmail.svg">
     </a>
