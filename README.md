@@ -1,6 +1,6 @@
 ### Hello, welcome to my Github profile! 
 ---
-#### I'm a Software Developer with expertise in Java, Spring Boot, Angular, REST APIs, and CI/CD pipelines. Skilled in delivering scalable solutions and quickly adapting to new technologies and development stacks.
+#### I'm a Software Developer with expertise in Java, Spring Boot, React, REST APIs, and CI/CD pipelines. Skilled in delivering scalable solutions and quickly adapting to new technologies and development stacks.
 
 ---
 
