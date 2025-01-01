@@ -1,27 +1,46 @@
-## 👀👀👀👀👀👀👀
+### Hello, welcome to my Github profile! 
+---
+#### I'm a Software Developer with expertise in Java, Spring Boot, Angular, REST APIs, and CI/CD pipelines. Skilled in delivering scalable solutions and quickly adapting to new technologies and development stacks.
 
-<div>
-  <img height="150em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyllasBraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="right" height="150em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyllasBraga&layout=compact&langs_count=16&theme=dark" />
-</div>
-<br>
+---
 
 <div align="center">
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias preferidas</h1>
-    <img align="center" height="30" width="40" alt="java-icon" src="/images/java.png">
-    <img align="center" height="30" width="40" alt="spring-icon" src="/images/spring.png">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="/images/mysql.png">
-    <img align="center" height="30" width="40" alt="git-icon" src="/images/git.png">
-  </div>
-    <h1 align="center">Redes Sociais</h1>
-    <a href="mailto: syllasbraga2@gmail.com">
-      <img width="30" src="/images/gmail.svg">
-    </a>
-    <a href="https://www.linkedin.com/in/syllas-braga/" target="_blank">
-      <img width="25" src="/images/linkedin.svg">
-    </a>
+
+### ✨ GitHub Insights ✨
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyllasBraga&theme=dark"/>
 </div>
+
+---
+
+### 🔧 Technologies
+
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="JavaScript" width="50" height="50"/>
+</div>
+
+---
+
+### 👤 Social Media
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="mailto:syllasbraga2@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin: 1px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syllas-braga/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 20px;"/>
+  </a>
+  <a href="https://www.instagram.com/syllas.braga/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="Instagram" width="40" height="40"/>
+  </a>
+</div>
+
+---
